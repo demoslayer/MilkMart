@@ -1,0 +1,18 @@
+.use{
+    /* width: -webkit-fill-available; */
+    max-width: 400px;
+    padding: 10px 0px 25px 26px;
+    box-shadow: 5px 10px 20px rgba(27.9, 0, 50.9, 180.9);
+    margin-bottom: 15px;
+    margin-left: 35%;
+    border-radius: 30px;
+}
+.use p{
+    margin: 5px 0px 5px 5px;
+    padding: 2px 2px 5px 5px;
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+    letter-spacing: 0.8px;
+    font-weight:550;
+    line-height: 24px;
+}
